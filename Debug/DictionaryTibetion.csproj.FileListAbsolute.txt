@@ -1,0 +1,11 @@
+E:\prog\c#\DictionaryTibetion\bin\Debug\DictionaryTibetion.exe.config
+E:\prog\c#\DictionaryTibetion\bin\Debug\DictionaryTibetion.exe
+E:\prog\c#\DictionaryTibetion\bin\Debug\DictionaryTibetion.pdb
+E:\prog\c#\DictionaryTibetion\obj\Debug\DictionaryTibetion.Dictionary.resources
+E:\prog\c#\DictionaryTibetion\obj\Debug\DictionaryTibetion.Properties.Resources.resources
+E:\prog\c#\DictionaryTibetion\obj\Debug\DictionaryTibetion.csproj.GenerateResource.cache
+E:\prog\c#\DictionaryTibetion\obj\Debug\DictionaryTibetion.csproj.CoreCompileInputs.cache
+E:\prog\c#\DictionaryTibetion\obj\Debug\DictionaryTibetion.exe
+E:\prog\c#\DictionaryTibetion\obj\Debug\DictionaryTibetion.pdb
+E:\prog\c#\DictionaryTibetion\bin\Debug\Database1.mdf
+E:\prog\c#\DictionaryTibetion\bin\Debug\Database1_log.ldf
